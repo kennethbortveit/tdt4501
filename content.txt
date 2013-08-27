@@ -10,19 +10,25 @@ Theory
 	Health Information Systems
 		Developing Countries
 			History
+			Hardware
 		Infrastructure	
 			Power
 			Internet
 		Integration
-
+		Sensetive data
 	Collaboration
+		Platform
 		AppStore
 	Open Source
 		Funding
 Case
 	HISP
+		History
 	DHIS2
+		User Interface
+			Complexity
 		Development
+		Tracker
 		Functionality
 			Pivot Table
 			Data Visualizer
