@@ -1,1 +1,34 @@
-Haloooo!
+Content
+
+Subject code: tdt4105
+Subject name: Specialization Project
+Author: Kenneth Børtveit
+
+Introduction
+	
+Theory
+	Health Information Systems
+		Developing Countries
+			History
+		Infrastructure	
+			Power
+			Internet
+		Integration
+
+	Collaboration
+		AppStore
+	Open Source
+		Funding
+Case
+	HISP
+	DHIS2
+		Development
+		Functionality
+			Pivot Table
+			Data Visualizer
+			GIS
+Analysis
+
+Discussion
+
+Conclusion
