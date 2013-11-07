@@ -1,0 +1,13 @@
+\section{Day 22}
+\begin{tabular}{|c|c|}
+\hline
+Date: & 28.10.2013 \\
+\hline
+\end{tabular}
+\subsection{Data Flow Diagram}
+I decided to make a Data Flow Diagram today. This will give me an overview of the system as a whole.
+I found out today that the DIDDT web application we wanted to make was already taken care of.
+So now I am kind of on square one. I will try to get an overview of the whole system, one for how the system is today
+and then one for how the system should look like.
+I've decided to use Yourdon \& Coad notation. See article. This will allow us to map the intire system down to psudeocode and all the way up to context view.
+

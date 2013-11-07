@@ -1,0 +1,28 @@
+\section{Day 16}
+\begin{tabular}{|c|c|}
+\hline
+Date: & 22.10.2013 \\
+\hline
+\end{tabular}
+\subsection{Back at the office}
+Got really sick yesterday. I think it was food poisioning. Now I'm back almost well again.
+I hope that we can focus on the interoperateability project from now on. 
+Simen suggested that we should make some interviews and I think that is a good idea.
+We are going to get a breifing from Randy 10:30AM.
+\subsection{Meeting with Randy}
+We discussed the core issues of trying to synchronize their data. First of all it should be mentioned that the main issue here is to understand the problem. The problem being that they want to sync datavalues. The rest is for the moment irelevant. Datavalues is found in a table in the database. The table itself is called datavalue. Each record is identified by a primary key. In this instance this is a combination of id's. 
+\begin{enumerate}
+	\item dataelementid
+	\item periodid
+	\item sourceid
+	\item categoryoptioncomboid
+\end{enumerate}
+The problem here is that these identifiers will not be the same in other instances of DHIS2. So in order to copy this data from one database to another we will have to find a way to compare the datavalues and decide if two values are the same or not.So actally there might be a datavalue that is the same, but with different identifiers. For the dataelementid there is a code that we could use that will be the same in all instances, but is this only for DHIS2 here in Rwanda? For the periodid we will have to compare start dates and period type.
+The sourceid is the organizationunit. There is a code here that I hope is the same as the FOSA ID. 
+And what exactly is the categoryoptioncomboid? In any case we should be able to make codes for all the categoryoptioncombos as well.  
+\subsection{After lunch}
+Should really find some proper food down here. The trick now is to make all the necesarry codes. These codes have to be the same for all instances of DHIS2. How are we going to facilitate this? The thing that is causing all the complexity is that they want independent databases. These databases don't sync completely. I don't know why they want it this way.
+Thing is, how is access to all data a bad thing? Are there some security issues here? Randy told me that the different departments dont want other departments changing their data. So it's about wanting control of their own data I think. More openess could cause a drop in the data quality.
+Delay...delay...delay.
+Simen suggested that this would be a good thing in a different case. The regional database need data from only a selected data elements. This is in fact the same problem we're dealing with here.
+Another issue that comes to mind is testing! We will have to make tests that ensures our solution.

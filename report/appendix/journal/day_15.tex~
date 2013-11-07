@@ -1,0 +1,25 @@
+\section{Day 15}
+\begin{tabular}{|c|c|}
+\hline
+Date: & 21.10.2013 \\
+\hline
+\end{tabular}
+\subsection{Getting in touch with the Health Facility Registry}
+Gloria is going to send me an email about this system. We will try to make the interoperateability thing work.
+As of now we got many things going on at the same time. Honestly I don't know what we should be working on.
+\begin{enumerate}
+\item Interoperateability project.
+	\begin{enumerate}
+		\item Get current status from Bob.
+		\item How often should the HMIS database update HFR?
+	\end{enumerate}
+\item Malaria Active Surveliance.
+	\begin{enumerate}
+		\item Implement SMS gateway.
+		\item Find out what happend to the Sentinel Project.
+	\end{enumerate}
+\item Import additional datasets and plan launch of National Data Warehouse and web portal.
+	\begin{enumerate}
+		\item Don't really know what this is..
+	\end{enumerate}
+\end{enumerate}

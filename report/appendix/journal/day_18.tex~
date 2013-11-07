@@ -1,0 +1,14 @@
+\section{Day 18}
+\begin{tabular}{|c|c|}
+\hline
+Date: & 24.10.2013 \\
+\hline
+\end{tabular}
+\subsection{Presented our idea to Randy}
+Our idea was to make a webapp that will cover Randys requirements.\\
+\includegraphics[width="15cm"]{appendix/images/mockup}
+I started programming the GUI while Simen took care of the database.
+Here the complications startet. We need a way to push datagroups into the other DHIS2 instance.
+The web API does not support this.
+So in order to do this we have to directly access the database. 
+\includegraphics[width="15cm"]{appendix/images/datagroup}

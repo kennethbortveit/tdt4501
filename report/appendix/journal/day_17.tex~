@@ -1,0 +1,13 @@
+\section{Day 17}
+\begin{tabular}{|c|c|}
+\hline
+Date: & 23.10.2013 \\
+\hline
+\end{tabular}
+\subsection{Starting on the interoperate ability project}
+We discussed what the requirements for our case should be.
+Randy wants to be able to transfer data groups from one DHIS2 instance to another.
+We started to make some ideas and landed on making a web app. There were several good options.
+\subsubsection{Android App}
+\subsubsection{Web App}
+\subsubsection{DHIS2 App}
