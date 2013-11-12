@@ -1,9 +1,132 @@
-\contentsline {part}{I\hspace {1em}Introduction}{1}
-\contentsline {part}{II\hspace {1em}Theory}{2}
-\contentsline {chapter}{\numberline {1}Information Systems In Developing Countries}{3}
-\contentsline {chapter}{\numberline {2}Health Information Systems}{4}
-\contentsline {chapter}{\numberline {3}Open Source}{5}
-\contentsline {part}{III\hspace {1em}Case}{6}
-\contentsline {chapter}{\numberline {4}Health Information System Programme}{7}
-\contentsline {chapter}{\numberline {5}District Health Information System}{8}
-\contentsline {part}{IV\hspace {1em}Conclusion \& Discussion}{9}
+\contentsline {part}{I\hspace {1em}Litterature}{1}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Interoperatability}{3}
+\contentsline {chapter}{\numberline {3}Datawarehouse}{4}
+\contentsline {chapter}{\numberline {4}Integration}{5}
+\contentsline {chapter}{\numberline {5}Transition Strategy}{6}
+\contentsline {section}{\numberline {5.1}System Migration \cite {2} \cite {8}}{6}
+\contentsline {subsection}{\numberline {5.1.1}Initiation}{6}
+\contentsline {subsection}{\numberline {5.1.2}Implementation}{6}
+\contentsline {subsubsection}{What characterizes a successful implementation}{6}
+\contentsline {subsection}{\numberline {5.1.3}Cut-Over}{6}
+\contentsline {subsubsection}{Evolutionary vs. Revolutionary}{6}
+\contentsline {subsection}{\numberline {5.1.4}Migration Methods}{6}
+\contentsline {subsubsection}{The Big Bang}{6}
+\contentsline {subsubsection}{Forward Migration}{6}
+\contentsline {subsubsection}{Backwords Migration}{6}
+\contentsline {subsubsection}{The Chicken Little Strategy}{6}
+\contentsline {subsubsection}{The Butterfly Methodology}{6}
+\contentsline {part}{II\hspace {1em}Empirical}{7}
+\contentsline {chapter}{\numberline {6}Context}{8}
+\contentsline {section}{\numberline {6.1}Information Technology focus in Rwanda}{10}
+\contentsline {subsection}{\numberline {6.1.1}The ICT park project}{11}
+\contentsline {section}{\numberline {6.2}Health Information Systems in Rwanda}{11}
+\contentsline {chapter}{\numberline {7}Method}{12}
+\contentsline {chapter}{\numberline {8}Case}{13}
+\contentsline {section}{\numberline {8.1}Health Information System Programme}{13}
+\contentsline {subsection}{\numberline {8.1.1}About}{13}
+\contentsline {subsection}{\numberline {8.1.2}History}{13}
+\contentsline {section}{\numberline {8.2}District Health Information System}{13}
+\contentsline {subsection}{\numberline {8.2.1}About}{13}
+\contentsline {subsection}{\numberline {8.2.2}Modules}{13}
+\contentsline {subsection}{\numberline {8.2.3}Usage}{13}
+\contentsline {subsubsection}{Use Case}{13}
+\contentsline {section}{\numberline {8.3}Inforamation Systems in Rwanda}{13}
+\contentsline {subsection}{\numberline {8.3.1}Current situation}{13}
+\contentsline {subsection}{\numberline {8.3.2}Health Ministy Information System}{13}
+\contentsline {subsection}{\numberline {8.3.3}DHIX}{13}
+\contentsline {subsubsection}{Apache Camel}{13}
+\contentsline {subsection}{\numberline {8.3.4}Malaria Surveliance}{13}
+\contentsline {subsubsection}{Sentinel Surveliance}{13}
+\contentsline {subsubsection}{Active Surveliance}{13}
+\contentsline {subsection}{\numberline {8.3.5}Voxivia}{13}
+\contentsline {part}{III\hspace {1em}Discussion}{14}
+\contentsline {chapter}{\numberline {A}Journal}{16}
+\contentsline {section}{\numberline {A.1}Day 1}{16}
+\contentsline {subsection}{\numberline {A.1.1}Traveling}{16}
+\contentsline {subsubsection}{Bus}{16}
+\contentsline {subsubsection}{Trondheim Airport}{16}
+\contentsline {subsubsection}{Oslo Airport}{16}
+\contentsline {subsubsection}{Istanbul}{16}
+\contentsline {subsubsection}{Kigali}{17}
+\contentsline {section}{\numberline {A.2}Day 2}{17}
+\contentsline {subsection}{\numberline {A.2.1}Meeting with Randy}{17}
+\contentsline {subsubsection}{Breakfast}{17}
+\contentsline {subsubsection}{Bank}{17}
+\contentsline {subsubsection}{MTN}{17}
+\contentsline {subsubsection}{Lunch}{17}
+\contentsline {subsubsection}{The Office}{18}
+\contentsline {subsubsection}{Back Home}{18}
+\contentsline {section}{\numberline {A.3}Day 3}{18}
+\contentsline {subsection}{\numberline {A.3.1}First day at the office}{18}
+\contentsline {subsection}{\numberline {A.3.2}DHIS2 Intro}{18}
+\contentsline {subsection}{\numberline {A.3.3}Lunch}{20}
+\contentsline {subsection}{\numberline {A.3.4}Install Rwanda DHIS2}{20}
+\contentsline {subsection}{\numberline {A.3.5}Dinner}{20}
+\contentsline {section}{\numberline {A.4}Day 4}{20}
+\contentsline {subsection}{\numberline {A.4.1}1st session: Review of training}{20}
+\contentsline {subsection}{\numberline {A.4.2}Meeting}{21}
+\contentsline {subsection}{\numberline {A.4.3}Dinner}{22}
+\contentsline {subsection}{\numberline {A.4.4}Second Session}{22}
+\contentsline {section}{\numberline {A.5}Day 5}{22}
+\contentsline {subsection}{\numberline {A.5.1}MSC Office}{23}
+\contentsline {subsection}{\numberline {A.5.2}After Brunch}{23}
+\contentsline {subsection}{\numberline {A.5.3}Conference room}{23}
+\contentsline {subsubsection}{Malaria Active Surveliance}{23}
+\contentsline {subsubsection}{Sentinal Surveliance}{23}
+\contentsline {subsubsection}{Ineroperateability}{23}
+\contentsline {subsection}{\numberline {A.5.4}Dinner at Randy's}{26}
+\contentsline {section}{\numberline {A.6}Day 6}{26}
+\contentsline {subsection}{\numberline {A.6.1}HASH}{27}
+\contentsline {subsection}{\numberline {A.6.2}Papairus}{27}
+\contentsline {section}{\numberline {A.7}Day 7}{27}
+\contentsline {subsection}{\numberline {A.7.1}Spaghetti Dinner}{27}
+\contentsline {section}{\numberline {A.8}Day 8}{27}
+\contentsline {subsection}{\numberline {A.8.1}Zero Values}{27}
+\contentsline {section}{\numberline {A.9}Day 9}{27}
+\contentsline {subsection}{\numberline {A.9.1}Before lunch}{27}
+\contentsline {subsection}{\numberline {A.9.2}After lunch}{27}
+\contentsline {subsection}{\numberline {A.9.3}House hunting}{28}
+\contentsline {section}{\numberline {A.10}Day 10}{28}
+\contentsline {subsection}{\numberline {A.10.1}Staff meeting}{28}
+\contentsline {section}{\numberline {A.11}Day 11}{29}
+\contentsline {subsection}{\numberline {A.11.1}Setting up for Development}{29}
+\contentsline {subsection}{\numberline {A.11.2}Meeting with Edith}{29}
+\contentsline {section}{\numberline {A.12}Day 12}{29}
+\contentsline {subsection}{\numberline {A.12.1}Continuing setting up IDE}{29}
+\contentsline {section}{\numberline {A.13}Day 13}{29}
+\contentsline {subsection}{\numberline {A.13.1}House hunt finished}{30}
+\contentsline {subsection}{\numberline {A.13.2}2nd Hash}{30}
+\contentsline {section}{\numberline {A.14}Day 14}{30}
+\contentsline {subsection}{\numberline {A.14.1}Showing Felix the House}{30}
+\contentsline {subsection}{\numberline {A.14.2}Massage}{30}
+\contentsline {subsection}{\numberline {A.14.3}Eating}{30}
+\contentsline {section}{\numberline {A.15}Day 15}{30}
+\contentsline {subsection}{\numberline {A.15.1}Getting in touch with the Health Facility Registry}{30}
+\contentsline {section}{\numberline {A.16}Day 16}{30}
+\contentsline {subsection}{\numberline {A.16.1}Back at the office}{31}
+\contentsline {subsection}{\numberline {A.16.2}Meeting with Randy}{31}
+\contentsline {subsection}{\numberline {A.16.3}After lunch}{31}
+\contentsline {section}{\numberline {A.17}Day 17}{32}
+\contentsline {subsection}{\numberline {A.17.1}Starting on the interoperate ability project}{32}
+\contentsline {subsubsection}{Android App}{32}
+\contentsline {subsubsection}{Web App}{32}
+\contentsline {subsubsection}{DHIS2 App}{32}
+\contentsline {section}{\numberline {A.18}Day 18}{32}
+\contentsline {subsection}{\numberline {A.18.1}Presented our idea to Randy}{32}
+\contentsline {section}{\numberline {A.19}Day 19}{33}
+\contentsline {subsection}{\numberline {A.19.1}Starting today's work}{33}
+\contentsline {section}{\numberline {A.20}Day 20}{34}
+\contentsline {subsection}{\numberline {A.20.1}Safari}{34}
+\contentsline {subsection}{\numberline {A.20.2}Movie}{34}
+\contentsline {section}{\numberline {A.21}Day 21}{34}
+\contentsline {subsection}{\numberline {A.21.1}Android Development}{34}
+\contentsline {subsection}{\numberline {A.21.2}Town}{34}
+\contentsline {section}{\numberline {A.22}Day 22}{34}
+\contentsline {subsection}{\numberline {A.22.1}Data Flow Diagram}{34}
+\contentsline {section}{\numberline {A.23}Day 23}{34}
+\contentsline {subsection}{\numberline {A.23.1}HMIS Staff meeting}{35}
+\contentsline {subsubsection}{Agenda}{35}
+\contentsline {subsection}{\numberline {A.23.2}Malarya Surveliance}{35}
+\contentsline {subsection}{\numberline {A.23.3}Meeting with Jean Paul}{35}
+\contentsline {subsection}{\numberline {A.23.4}Skype with Bob}{35}

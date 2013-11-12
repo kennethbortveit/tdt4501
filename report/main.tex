@@ -1,23 +1,27 @@
 \documentclass[10pt, a4paper]{report}
 \usepackage[utf8]{inputenc}
-\title{Report \\ Specialization Project \\ TDT4501}
-\author{Kenneth Børtveit}
+\usepackage{graphicx}
+\usepackage{nomencl}
+\usepackage{makeidx}
 
+\makenomenclature
+\title{{\Huge Interoperatability in Health Information Systems} \\ Report \\ Specialization Project \\ TDT4501}
+\author{Kenneth Børtveit}
 \begin{document}
 \maketitle
 \tableofcontents
 \listoffigures
 \listoftables
+\printnomenclature
+%Compile, then run this command to make the nomenclature
+%makeindex  filename.nlo -s nomencl.ist -o filename.nls
+%Then compile a couple of times.
 \begin{abstract}
 
 \end{abstract}
-\part{Introduction}
-\part{Theory}
-\chapter{Information Systems In Developing Countries}
-\chapter{Health Information Systems}
-\chapter{Open Source}
-\part{Case}
-\chapter{Health Information System Programme}
-\chapter{District Health Information System}
-\part{Conclusion \& Discussion}
+\input{litterature/litterature.tex} 
+\input{empirical/empirical.tex}
+\input{discussion/discussion.tex}
+\input{bibliography.tex}
+\input{appendix/appendix.tex}
 \end{document}

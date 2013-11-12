@@ -1,0 +1,12 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}
+		\nompageref{11}
+  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}
+		\nompageref{11}
+  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}
+		\nompageref{8}
+
+\end{thenomenclature}
