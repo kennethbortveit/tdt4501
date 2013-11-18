@@ -1,3 +1,8 @@
 \nomenclatureentry{aICT@[{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}|nompageref}{8}
-\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}|nompageref}{11}
-\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}|nompageref}{11}
+\nomenclatureentry{aHISP@[{HISP}]\begingroup Health Information System Programme\nomeqref {6.0}|nompageref}{12}
+\nomenclatureentry{aDHIS@[{DHIS}]\begingroup District Health Information System\nomeqref {6.0}|nompageref}{12}
+\nomenclatureentry{aGIS@[{GIS}]\begingroup Graphical Information System\nomeqref {6.0}|nompageref}{12}
+\nomenclatureentry{aetc@[{etc}]\begingroup Et cetera\nomeqref {6.0}|nompageref}{12}
+\nomenclatureentry{aSMS@[{SMS}]\begingroup Simple Message Service\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}|nompageref}{15}

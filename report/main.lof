@@ -7,10 +7,14 @@
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Rwanda Administrative Division}}{9}
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Global Internet Penetration in 2012 \cite {3}}}{10}
 \contentsline {figure}{\numberline {6.3}{\ignorespaces Global Internet Users in 2012 \cite {3}}}{10}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Systems Currently in Use 2013}}{11}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces A population count using GIS in DHIS2}}{13}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces A population count using a chart in DHIS2}}{14}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces An example of a pivot table in DHIS2\cite {10}}}{14}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Systems Currently in Use 2013}}{16}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Rwanda Map Hierarchy in DHIS2}}{24}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Sentinel Surveliance}}{25}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces System Architecture}}{26}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Rwanda Map Hierarchy in DHIS2}}{30}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Sentinel Surveliance}}{31}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces System Architecture}}{32}
