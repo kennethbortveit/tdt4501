@@ -1,20 +1,28 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Exhibit 1}}{4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Exhibit 2}}{4}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Rwanda Administrative Division}}{9}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Global Internet Penetration in 2012 \cite {3}}}{10}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Global Internet Users in 2012 \cite {3}}}{10}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces A population count using GIS in DHIS2}}{13}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces A population count using a chart in DHIS2}}{14}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces An example of a pivot table in DHIS2\cite {10}}}{14}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Systems Currently in Use 2013}}{16}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Rwanda in the World \cite {14}}}{11}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Rwanda Administrative Division}}{12}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Global Internet Penetration in 2012 \cite {3}}}{13}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Global Internet Users in 2012 \cite {3}}}{13}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces A population count using GIS in DHIS2}}{16}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces A population count using a chart in DHIS2}}{17}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces An example of a pivot table in DHIS2\cite {10}}}{17}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Systems Currently in Use 2013}}{19}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Dataflow}}{23}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Sentinel Surveliance}}{24}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces External Systems}}{25}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Future Design}}{25}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Health Facility Registration in DHIX}}{26}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Rwanda Map Hierarchy in DHIS2}}{30}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Sentinel Surveliance}}{31}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces System Architecture}}{32}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Rwanda Map Hierarchy in DHIS2}}{38}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Sentinel Surveliance}}{39}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces System Architecture}}{40}

@@ -1,0 +1,23 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{DHIS}]\begingroup District Health Information System\nomeqref {6.0}
+		\nompageref{14}
+  \item [{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}
+		\nompageref{17}
+  \item [{etc}]\begingroup Et cetera\nomeqref {6.0}\nompageref{14}
+  \item [{GIS}]\begingroup Graphical Information System\nomeqref {6.0}
+		\nompageref{14}
+  \item [{HISP}]\begingroup Health Information System Programme\nomeqref {6.0}
+		\nompageref{14}
+  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}
+		\nompageref{17}
+  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}
+		\nompageref{10}
+  \item [{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {8.0}
+		\nompageref{22}
+  \item [{SMS}]\begingroup Simple Message Service\nomeqref {6.0}
+		\nompageref{17}
+
+\end{thenomenclature}

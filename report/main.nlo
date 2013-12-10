@@ -1,8 +1,11 @@
-\nomenclatureentry{aICT@[{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}|nompageref}{8}
-\nomenclatureentry{aHISP@[{HISP}]\begingroup Health Information System Programme\nomeqref {6.0}|nompageref}{12}
-\nomenclatureentry{aDHIS@[{DHIS}]\begingroup District Health Information System\nomeqref {6.0}|nompageref}{12}
-\nomenclatureentry{aGIS@[{GIS}]\begingroup Graphical Information System\nomeqref {6.0}|nompageref}{12}
-\nomenclatureentry{aetc@[{etc}]\begingroup Et cetera\nomeqref {6.0}|nompageref}{12}
-\nomenclatureentry{aSMS@[{SMS}]\begingroup Simple Message Service\nomeqref {6.0}|nompageref}{15}
-\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}|nompageref}{15}
-\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aICT@[{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}|nompageref}{10}
+\nomenclatureentry{aHISP@[{HISP}]\begingroup Health Information System Programme\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aDHIS@[{DHIS}]\begingroup District Health Information System\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aGIS@[{GIS}]\begingroup Graphical Information System\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aetc@[{etc}]\begingroup Et cetera\nomeqref {6.0}|nompageref}{15}
+\nomenclatureentry{aSMS@[{SMS}]\begingroup Simple Message Service\nomeqref {6.0}|nompageref}{18}
+\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}|nompageref}{18}
+\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}|nompageref}{18}
+\nomenclatureentry{aSMPP@[{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {8.0}|nompageref}{23}
+\nomenclatureentry{aPBF@[{PBF}]\begingroup Performance Based Finance\nomeqref {8.0}|nompageref}{26}
+\nomenclatureentry{aHFR@[{HFR}]\begingroup Health Facility Registry\nomeqref {8.0}|nompageref}{26}
