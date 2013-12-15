@@ -30,32 +30,24 @@
 \contentsline {chapter}{\numberline {5}Context}{11}
 \contentsline {section}{\numberline {5.1}Brief History Lesson}{14}
 \contentsline {section}{\numberline {5.2}Information Technology focus in Rwanda}{14}
-\contentsline {subsection}{\numberline {5.2.1}The ICT park project}{15}
 \contentsline {section}{\numberline {5.3}Health Information System Programme}{15}
 \contentsline {subsection}{\numberline {5.3.1}About}{15}
-\contentsline {subsubsection}{Vision}{16}
-\contentsline {subsubsection}{Mission}{16}
 \contentsline {subsection}{\numberline {5.3.2}History}{16}
-\contentsline {subsection}{\numberline {5.3.3}Portefolio}{16}
-\contentsline {subsection}{\numberline {5.3.4}District Health Information System}{16}
-\contentsline {subsubsection}{GIS}{17}
+\contentsline {subsection}{\numberline {5.3.3}District Health Information System}{16}
+\contentsline {subsubsection}{GIS}{16}
 \contentsline {subsubsection}{Charts}{17}
-\contentsline {subsubsection}{Pivot Table}{18}
-\contentsline {subsubsection}{Dashboard and social features}{18}
-\contentsline {subsubsection}{Individual Records}{18}
+\contentsline {subsubsection}{Pivot Table}{17}
+\contentsline {subsubsection}{Dashboard and social features}{19}
+\contentsline {subsubsection}{Individual Records}{19}
 \contentsline {subsubsection}{Data entry and validation}{19}
 \contentsline {section}{\numberline {5.4}Healthcare}{19}
-\contentsline {subsection}{\numberline {5.4.1}History}{19}
-\contentsline {subsection}{\numberline {5.4.2}Structure}{19}
-\contentsline {subsection}{\numberline {5.4.3}Financial}{19}
-\contentsline {subsection}{\numberline {5.4.4}Ranking and the rest of the world}{19}
-\contentsline {subsection}{\numberline {5.4.5}Health Information Systems in Rwanda}{19}
-\contentsline {subsection}{\numberline {5.4.6}DHIS2 enters Rwanda}{20}
+\contentsline {subsection}{\numberline {5.4.1}Health Information Systems in Rwanda}{20}
 \contentsline {chapter}{\numberline {6}Method}{21}
-\contentsline {section}{\numberline {6.1}Choice of Method}{21}
-\contentsline {section}{\numberline {6.2}Data Collection}{21}
-\contentsline {section}{\numberline {6.3}Reflection \& Data Analysis}{22}
-\contentsline {subsection}{\numberline {6.3.1}7 Principles for Conduction and Evaluating}{22}
+\contentsline {section}{\numberline {6.1}Action Research}{21}
+\contentsline {section}{\numberline {6.2}Action Research}{22}
+\contentsline {section}{\numberline {6.3}Data Collection}{22}
+\contentsline {section}{\numberline {6.4}Reflection \& Data Analysis}{22}
+\contentsline {subsection}{\numberline {6.4.1}7 Principles for Conduction and Evaluating}{22}
 \contentsline {chapter}{\numberline {7}Case}{23}
 \contentsline {section}{\numberline {7.1}Background}{23}
 \contentsline {section}{\numberline {7.2}Current situation}{24}
