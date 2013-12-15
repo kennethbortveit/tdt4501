@@ -2,22 +2,26 @@
 
  \nomgroup{A}
 
-  \item [{DHIS}]\begingroup District Health Information System\nomeqref {6.0}
-		\nompageref{14}
-  \item [{DHIS2}]\begingroup District Health Information System 2\nomeqref {6.0}
-		\nompageref{17}
-  \item [{etc}]\begingroup Et cetera\nomeqref {6.0}\nompageref{14}
-  \item [{GIS}]\begingroup Graphical Information System\nomeqref {6.0}
-		\nompageref{14}
-  \item [{HISP}]\begingroup Health Information System Programme\nomeqref {6.0}
-		\nompageref{14}
-  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {6.0}
-		\nompageref{17}
-  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {6.0}
+  \item [{DHIS}]\begingroup District Health Information System\nomeqref {5.0}
+		\nompageref{15}
+  \item [{DHIS2}]\begingroup District Health Information System 2\nomeqref {5.0}
+		\nompageref{18}
+  \item [{etc}]\begingroup Et cetera\nomeqref {5.0}\nompageref{15}
+  \item [{GIS}]\begingroup Graphical Information System\nomeqref {5.0}
+		\nompageref{15}
+  \item [{HISP}]\begingroup Health Information System Programme\nomeqref {5.0}
+		\nompageref{15}
+  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {5.0}
+		\nompageref{18}
+  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {5.0}
 		\nompageref{10}
-  \item [{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {8.0}
-		\nompageref{22}
-  \item [{SMS}]\begingroup Simple Message Service\nomeqref {6.0}
-		\nompageref{17}
+  \item [{OS's}]\begingroup Operating Systems\nomeqref {2.0}
+		\nompageref{3}
+  \item [{PBF}]\begingroup Performance Based Financing\nomeqref {7.0}
+		\nompageref{24}
+  \item [{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {7.0}
+		\nompageref{26}
+  \item [{SMS}]\begingroup Simple Message Service\nomeqref {5.0}
+		\nompageref{18}
 
 \end{thenomenclature}

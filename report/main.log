@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  10 DEC 2013 10:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  14 DEC 2013 15:10
 entering extended mode
 **main.tex
 (C:\github\tdt4501\report\main.tex
@@ -336,19 +336,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
  [1
 
-] [2] [3])
+])
 \tf@toc=\write4
- [4]
-(C:\github\tdt4501\report\main.lof)
+ [2] (C:\github\tdt4501\report\main.lof)
 \tf@lof=\write5
- [5
+[3
 
 ] (C:\github\tdt4501\report\main.lot)
 \tf@lot=\write6
+ (C:\github\tdt4501\report\main.nls
+[4
 
-(C:\github\tdt4501\report\main.nls [6
-
-]) [7
+]) [5
 
 ] [1]
 Chapter 1.
@@ -359,51 +358,54 @@ Chapter 1.
 ]
 (C:\github\tdt4501\report\litterature/interoperability.tex
 Chapter 2.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+<litterature/images/begin_silo.png, id=35, 527.9725pt x 322.20375pt>
+File: litterature/images/begin_silo.png Graphic file (type png)
 
-<litterature/images/exhibit1.png, id=41, 797.22844pt x 703.87968pt>
+<use litterature/images/begin_silo.png>
+Package pdftex.def Info: litterature/images/begin_silo.png used on input line 8
+.
+(pdftex.def)             Requested size: 341.43306pt x 208.36308pt.
+ [3
+
+] [4 <C:/github/tdt4501/report/litterature/images/begin_silo.png>]
+<litterature/images/exhibit1.png, id=44, 797.22844pt x 703.87968pt>
 File: litterature/images/exhibit1.png Graphic file (type png)
 
 <use litterature/images/exhibit1.png>
-Package pdftex.def Info: litterature/images/exhibit1.png used on input line 24.
+Package pdftex.def Info: litterature/images/exhibit1.png used on input line 41.
 
 (pdftex.def)             Requested size: 341.43306pt x 301.4487pt.
 
-<litterature/images/exhibit2.png, id=42, 775.39688pt x 360.59718pt>
+<litterature/images/exhibit2.png, id=45, 775.39688pt x 360.59718pt>
 File: litterature/images/exhibit2.png Graphic file (type png)
 
 <use litterature/images/exhibit2.png>
-Package pdftex.def Info: litterature/images/exhibit2.png used on input line 30.
+Package pdftex.def Info: litterature/images/exhibit2.png used on input line 47.
 
 (pdftex.def)             Requested size: 341.43306pt x 158.78429pt.
- [3
 
-] [4 <C:/github/tdt4501/report/litterature/images/exhibit1.png> <C:/github/tdt4
-501/report/litterature/images/exhibit2.png>]) (C:\github\tdt4501\report\littera
-ture/datawarehouse.tex [5]
+Overfull \hbox (6.63945pt too wide) in paragraph at lines 54--55
+[]\OT1/cmr/m/n/10 Machine-interpretable data|transmission of struc-tured mes-sa
+ges con-
+ []
+
+[5 <C:/github/tdt4501/report/litterature/images/exhibit1.png>])
+(C:\github\tdt4501\report\litterature/transition_strategy.tex [6 <C:/github/tdt
+4501/report/litterature/images/exhibit2.png>]
 Chapter 3.
-) (C:\github\tdt4501\report\litterature/transition_strategy.tex [6
-
-]
-Chapter 4.
 ) (C:\github\tdt4501\report\litterature/health_in_developing_countries.tex
 [7
 
-]
-Chapter 5.
-)) (C:\github\tdt4501\report\empirical/empirical.tex [8
+] [8]
+Chapter 4.
+)) (C:\github\tdt4501\report\empirical/empirical.tex [9
 
-] [9
+] [10
 
 ]
 (C:\github\tdt4501\report\empirical/context.tex
-Chapter 6.
-<empirical/images/context_map_rwanda.png, id=66, 307.1475pt x 315.1775pt>
+Chapter 5.
+<empirical/images/context_map_rwanda.png, id=65, 307.1475pt x 315.1775pt>
 File: empirical/images/context_map_rwanda.png Graphic file (type png)
 
 <use empirical/images/context_map_rwanda.png>
@@ -411,7 +413,7 @@ Package pdftex.def Info: empirical/images/context_map_rwanda.png used on input
 line 4.
 (pdftex.def)             Requested size: 341.43306pt x 350.38017pt.
 
-<empirical/images/rwanda_administrative_division.png, id=68, 1089.06876pt x 954
+<empirical/images/rwanda_administrative_division.png, id=66, 1089.06876pt x 954
 .56625pt>
 File: empirical/images/rwanda_administrative_division.png Graphic file (type pn
 g)
@@ -419,121 +421,150 @@ g)
 Package pdftex.def Info: empirical/images/rwanda_administrative_division.png us
 ed on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 299.26254pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 
-Overfull \hbox (9.52837pt too wide) in paragraph at lines 27--28
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+
+Overfull \hbox (9.52837pt too wide) in paragraph at lines 30--31
 []\OT1/cmr/m/n/10 Low lev-els of cor-rup-tion - Zero tol-er-ance (Trans-parency
  in-ter-na-tional Bribery
  []
 
+[11
 
-<empirical/images/internet_penetration_2012.png, id=69, 688.28572pt x 348.73143
+] [12 <C:/github/tdt4501/report/empirical/images/context_map_rwanda.png>]
+[13 <C:/github/tdt4501/report/empirical/images/rwanda_administrative_division.p
+ng>]
+<empirical/images/internet_penetration_2012.png, id=82, 688.28572pt x 348.73143
 pt>
 File: empirical/images/internet_penetration_2012.png Graphic file (type png)
  <use empirical/images/internet_penetration_2012.png>
 Package pdftex.def Info: empirical/images/internet_penetration_2012.png used on
- input line 42.
+ input line 56.
 (pdftex.def)             Requested size: 341.43306pt x 172.9924pt.
- [10
 
-] [11 <C:/github/tdt4501/report/empirical/images/context_map_rwanda.png>] [12 <
-C:/github/tdt4501/report/empirical/images/rwanda_administrative_division.png>]
-<empirical/images/internet_users_2012.png, id=84, 688.28572pt x 348.73143pt>
+<empirical/images/internet_users_2012.png, id=83, 688.28572pt x 348.73143pt>
 File: empirical/images/internet_users_2012.png Graphic file (type png)
 
 <use empirical/images/internet_users_2012.png>
 Package pdftex.def Info: empirical/images/internet_users_2012.png used on input
- line 49.
+ line 63.
 (pdftex.def)             Requested size: 341.43306pt x 172.9924pt.
- [13 <C:/github/tdt4501/report/empirical/images/internet_penetration_2012.png> 
-<C:/github/tdt4501/report/empirical/images/internet_users_2012.png>] [14]
-<empirical/images/map_rwanda_population_2013.png, id=93, 1163.0953pt x 706.1381
+ [14 <C:/github/tdt4501/report/empirical/images/internet_penetration_2012.png>]
+ [15 <C:/github/tdt4501/report/empirical/images/internet_users_2012.png>]
+<empirical/images/map_rwanda_population_2013.png, id=92, 1163.0953pt x 706.1381
 2pt>
 File: empirical/images/map_rwanda_population_2013.png Graphic file (type png)
  <use empirical/images/map_rwanda_population_2013.png>
 Package pdftex.def Info: empirical/images/map_rwanda_population_2013.png used o
-n input line 110.
+n input line 124.
 (pdftex.def)             Requested size: 341.43306pt x 207.28534pt.
-
-<empirical/images/chart_rwanda_population_2013.png, id=94, 994.46532pt x 687.31
+ [16]
+<empirical/images/chart_rwanda_population_2013.png, id=96, 994.46532pt x 687.31
 781pt>
 File: empirical/images/chart_rwanda_population_2013.png Graphic file (type png)
 
  <use empirical/images/chart_rwanda_population_2013.png>
 Package pdftex.def Info: empirical/images/chart_rwanda_population_2013.png used
- on input line 125.
+ on input line 139.
 (pdftex.def)             Requested size: 341.43306pt x 235.98175pt.
- [15]
-<empirical/images/pivot_table_example.png, id=98, 1361.085pt x 692.5875pt>
+
+<empirical/images/pivot_table_example.png, id=97, 1361.085pt x 692.5875pt>
 File: empirical/images/pivot_table_example.png Graphic file (type png)
 
 <use empirical/images/pivot_table_example.png>
 Package pdftex.def Info: empirical/images/pivot_table_example.png used on input
- line 142.
+ line 156.
 (pdftex.def)             Requested size: 341.43306pt x 173.73825pt.
- [16 <C:/github/tdt4501/report/empirical/images/map_rwanda_population_2013.png>
-] [17 <C:/github/tdt4501/report/empirical/images/chart_rwanda_population_2013.p
-ng> <C:/github/tdt4501/report/empirical/images/pivot_table_example.png>]
-<empirical/images/context.png, id=109, 1903.11pt x 983.675pt>
+ [17 <C:/github/tdt4501/report/empirical/images/map_rwanda_population_2013.png>
+] [18 <C:/github/tdt4501/report/empirical/images/chart_rwanda_population_2013.p
+ng>]
+<empirical/images/context.png, id=107, 1903.11pt x 983.675pt>
 File: empirical/images/context.png Graphic file (type png)
 
 <use empirical/images/context.png>
-Package pdftex.def Info: empirical/images/context.png used on input line 178.
+Package pdftex.def Info: empirical/images/context.png used on input line 192.
 (pdftex.def)             Requested size: 341.43306pt x 176.46848pt.
- [18])
-(C:\github\tdt4501\report\empirical/method.tex [19 <C:/github/tdt4501/report/em
-pirical/images/context.png>]
+ [19 <C:/github/tdt4501/report/empirical/images/pivot_table_example.png>]) (C:\
+github\tdt4501\report\empirical/method.tex
+[20 <C:/github/tdt4501/report/empirical/images/context.png>]
+Chapter 6.
+
+LaTeX Warning: Citation `.' on page 21 undefined on input line 9.
+
+[21
+
+]) (C:\github\tdt4501\report\empirical/case.tex [22]
 Chapter 7.
-
-LaTeX Warning: Citation `.' on page 20 undefined on input line 9.
-
-[20
-
-]) (C:\github\tdt4501\report\empirical/case.tex [21]
-Chapter 8.
-<empirical/images/dataflow.png, id=123, 963.6pt x 702.625pt>
+<empirical/images/dataflow.png, id=122, 963.6pt x 702.625pt>
 File: empirical/images/dataflow.png Graphic file (type png)
 
 <use empirical/images/dataflow.png>
-Package pdftex.def Info: empirical/images/dataflow.png used on input line 13.
+Package pdftex.def Info: empirical/images/dataflow.png used on input line 31.
 (pdftex.def)             Requested size: 341.43306pt x 248.95653pt.
 
-<empirical/images/sentinel_surveliance.png, id=124, 963.6pt x 722.7pt>
+
+LaTeX Warning: Reference `dataflow' on page 23 undefined on input line 36.
+
+[23
+
+] [24 <C:/github/tdt4501/report/empirical/images/dataflow.png>]
+<empirical/images/dhix_overview.png, id=131, 578.16pt x 411.5375pt>
+File: empirical/images/dhix_overview.png Graphic file (type png)
+
+<use empirical/images/dhix_overview.png>
+Package pdftex.def Info: empirical/images/dhix_overview.png used on input line 
+51.
+(pdftex.def)             Requested size: 341.43306pt x 243.03108pt.
+
+Overfull \hbox (7.7918pt too wide) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/10 Contains in-for-ma-tion about per-formed health ser-vices thr
+ough-
+ []
+
+
+Overfull \hbox (5.04887pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 HMIS has a ded-i-cated server con-tain-ing in-for-ma-tion abo
+ut
+ []
+
+
+Overfull \hbox (2.20044pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10 This col-lects data from other DHIS2 in-stances. Data is push
+ed
+ []
+
+File: empirical/images/context.png Graphic file (type png)
+<use empirical/images/context.png>
+Package pdftex.def Info: empirical/images/context.png used on input line 66.
+(pdftex.def)             Requested size: 341.43306pt x 176.46848pt.
+ [25 <C:/github/tdt4501/report/empirical/images/dhix_overview.png>]
+<empirical/images/sentinel_surveliance.png, id=136, 963.6pt x 722.7pt>
 File: empirical/images/sentinel_surveliance.png Graphic file (type png)
 
 <use empirical/images/sentinel_surveliance.png>
 Package pdftex.def Info: empirical/images/sentinel_surveliance.png used on inpu
-t line 27.
+t line 84.
 (pdftex.def)             Requested size: 341.43306pt x 256.06956pt.
- [22
-
-] [23 <C:/github/tdt4501/report/empirical/images/dataflow.png>]
-File: empirical/images/context.png Graphic file (type png)
- <use empirical/images/context.png>
-Package pdftex.def Info: empirical/images/context.png used on input line 42.
-(pdftex.def)             Requested size: 341.43306pt x 176.46848pt.
-
-<empirical/images/future_design_rwanda.png, id=133, 963.6pt x 702.625pt>
+ [26]
+<empirical/images/future_design_rwanda.png, id=140, 963.6pt x 702.625pt>
 File: empirical/images/future_design_rwanda.png Graphic file (type png)
 
 <use empirical/images/future_design_rwanda.png>
 Package pdftex.def Info: empirical/images/future_design_rwanda.png used on inpu
-t line 49.
+t line 114.
 (pdftex.def)             Requested size: 341.43306pt x 248.95653pt.
- [24 <C:/github/tdt4501/report/empirical/images/sentinel_surveliance.png>] [25 
-<C:/github/tdt4501/report/empirical/images/future_design_rwanda.png>]
-<empirical/images/hfr_dhix.png, id=142, 598.235pt x 451.6875pt>
-File: empirical/images/hfr_dhix.png Graphic file (type png)
-
-<use empirical/images/hfr_dhix.png>
-Package pdftex.def Info: empirical/images/hfr_dhix.png used on input line 64.
-(pdftex.def)             Requested size: 341.43306pt x 257.79536pt.
-))
-(C:\github\tdt4501\report\discussion/discussion.tex [26 <C:/github/tdt4501/repo
-rt/empirical/images/hfr_dhix.png>] [27
+ [27 <C:/github/tdt4501/report/empirical/images/sentinel_surveliance.png>]))
+(C:\github\tdt4501\report\discussion/discussion.tex [28 <C:/github/tdt4501/repo
+rt/empirical/images/future_design_rwanda.png>] [29] [30
 
 ])
-Chapter 9.
-(C:\github\tdt4501\report\bibliography.tex [28
+Chapter 8.
+(C:\github\tdt4501\report\bibliography.tex [31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -565,156 +596,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 /cmr/bx/n/10 vis-ited
  []
 
-) (C:\github\tdt4501\report\appendix/appendix.tex
-(C:\github\tdt4501\report\appendix/journal/journal.tex [29
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/10 http://en.wikipedia.org/wiki/System[]integration, \OT1/cmr/bx
+/n/10 vis-ited 2013\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/10 http://en.wikipedia.org/wiki/Timeline[]of[]Rwandan[]history, 
+\OT1/cmr/bx/n/10 vis-ited
+ []
+
+[32
+
+]) (C:\github\tdt4501\report\appendix/appendix.tex [33]
+Appendix A.
+<appendix/pdf/malaria_reporting_2.pdf, id=166, 556.0775pt x 793.96625pt>
+File: appendix/pdf/malaria_reporting_2.pdf Graphic file (type pdf)
+
+<use appendix/pdf/malaria_reporting_2.pdf>
+Package pdftex.def Info: appendix/pdf/malaria_reporting_2.pdf used on input lin
+e 5.
+(pdftex.def)             Requested size: 341.43306pt x 487.50493pt.
+) [34
 
 ]
-Appendix A.
-(C:\github\tdt4501\report\appendix/journal/day_1.tex)
-(C:\github\tdt4501\report\appendix/journal/day_2.tex [30
-
-] [31])
-(C:\github\tdt4501\report\appendix/journal/day_3.tex
-<appendix/images/future_design_rwanda.png, id=164, 963.6pt x 702.625pt>
-File: appendix/images/future_design_rwanda.png Graphic file (type png)
-
-<use appendix/images/future_design_rwanda.png>
-Package pdftex.def Info: appendix/images/future_design_rwanda.png used on input
- line 24.
-(pdftex.def)             Requested size: 426.79134pt x 311.19298pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 22--26
-[] 
- []
-
-[32] [33 <C:/github/tdt4501/report/appendix/images/future_design_rwanda.png>])
-(C:\github\tdt4501\report\appendix/journal/day_4.tex
-<appendix/images/dhis2_map_categories.png, id=172, 963.6pt x 722.7pt>
-File: appendix/images/dhis2_map_categories.png Graphic file (type png)
-
-<use appendix/images/dhis2_map_categories.png>
-Package pdftex.def Info: appendix/images/dhis2_map_categories.png used on input
- line 11.
-(pdftex.def)             Requested size: 426.79134pt x 320.0842pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 6--12
-[] 
- []
-
-[34] <appendix/images/Dataflow.png, id=177, 963.6pt x 702.625pt>
-File: appendix/images/Dataflow.png Graphic file (type png)
-
-<use appendix/images/Dataflow.png>
-Package pdftex.def Info: appendix/images/Dataflow.png used on input line 14.
-(pdftex.def)             Requested size: 426.79134pt x 311.19298pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 13--16
-[] 
- []
-
-[35 <C:/github/tdt4501/report/appendix/images/dhis2_map_categories.png>])
-(C:\github\tdt4501\report\appendix/journal/day_5.tex
-<appendix/images/dhis2_rwanda_map_hierarchy.png, id=182, 963.6pt x 722.7pt>
-File: appendix/images/dhis2_rwanda_map_hierarchy.png Graphic file (type png)
-
-<use appendix/images/dhis2_rwanda_map_hierarchy.png>
-Package pdftex.def Info: appendix/images/dhis2_rwanda_map_hierarchy.png used on
- input line 11.
-(pdftex.def)             Requested size: 426.79134pt x 320.0842pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 11--11
- [][] 
- []
-
-[36 <C:/github/tdt4501/report/appendix/images/Dataflow.png>]
-<appendix/images/sentinel_surveliance.png, id=187, 963.6pt x 722.7pt>
-File: appendix/images/sentinel_surveliance.png Graphic file (type png)
-
-<use appendix/images/sentinel_surveliance.png>
-Package pdftex.def Info: appendix/images/sentinel_surveliance.png used on input
- line 32.
-(pdftex.def)             Requested size: 426.79134pt x 320.0842pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 32--33
- [][] 
- []
-
-[37] [38 <C:/github/tdt4501/report/appendix/images/dhis2_rwanda_map_hierarchy.p
-ng>] [39 <C:/github/tdt4501/report/appendix/images/sentinel_surveliance.png>]
-<appendix/images/System_Architecture.png, id=199, 963.6pt x 722.7pt>
-File: appendix/images/System_Architecture.png Graphic file (type png)
-
-<use appendix/images/System_Architecture.png>
-Package pdftex.def Info: appendix/images/System_Architecture.png used on input 
-line 50.
-(pdftex.def)             Requested size: 426.79134pt x 320.0842pt.
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--51
- [] 
- []
-
-) (C:\github\tdt4501\report\appendix/journal/day_6.tex)
-(C:\github\tdt4501\report\appendix/journal/day_7.tex [40 <C:/github/tdt4501/rep
-ort/appendix/images/System_Architecture.png>])
-(C:\github\tdt4501\report\appendix/journal/day_8.tex)
-(C:\github\tdt4501\report\appendix/journal/day_9.tex [41])
-(C:\github\tdt4501\report\appendix/journal/day_10.tex [42])
-(C:\github\tdt4501\report\appendix/journal/day_11.tex)
-(C:\github\tdt4501\report\appendix/journal/day_12.tex)
-(C:\github\tdt4501\report\appendix/journal/day_13.tex [43])
-(C:\github\tdt4501\report\appendix/journal/day_14.tex)
-(C:\github\tdt4501\report\appendix/journal/day_15.tex)
-(C:\github\tdt4501\report\appendix/journal/day_16.tex [44])
-(C:\github\tdt4501\report\appendix/journal/day_17.tex [45])
-(C:\github\tdt4501\report\appendix/journal/day_18.tex
-<appendix/images/mockup.png, id=220, 1774.63pt x 479.7925pt>
-File: appendix/images/mockup.png Graphic file (type png)
-
-<use appendix/images/mockup.png>
-Package pdftex.def Info: appendix/images/mockup.png used on input line 9.
-(pdftex.def)             Requested size: 597.50787pt x 161.53862pt.
-
-<appendix/images/datagroup.png, id=221, 963.6pt x 432.61626pt>
-File: appendix/images/datagroup.png Graphic file (type png)
-
-<use appendix/images/datagroup.png>
-Package pdftex.def Info: appendix/images/datagroup.png used on input line 14.
-(pdftex.def)             Requested size: 597.50787pt x 268.26552pt.
-)
-(C:\github\tdt4501\report\appendix/journal/day_19.tex
-Overfull \hbox (262.5079pt too wide) in paragraph at lines 8--1
-\OT1/cmr/m/n/10 ""[]
- []
+Overfull \vbox (70.34268pt too high) has occurred while \output is active []
 
 
-Overfull \hbox (387.60994pt too wide) in paragraph at lines 8--1
-\OT1/cmr/m/n/10 di-rectly ac-cess the database. ""[]
- []
-
-[46 <C:/github/tdt4501/report/appendix/images/mockup.png>])
-(C:\github\tdt4501\report\appendix/journal/day_20.tex [47 <C:/github/tdt4501/re
-port/appendix/images/datagroup.png>])
-(C:\github\tdt4501\report\appendix/journal/day_21.tex)
-(C:\github\tdt4501\report\appendix/journal/day_22.tex)
-(C:\github\tdt4501\report\appendix/journal/day_23.tex [48])
-(C:\github\tdt4501\report\appendix/journal/day_24.tex [49])
-(C:\github\tdt4501\report\appendix/journal/day_25.tex)
-(C:\github\tdt4501\report\appendix/journal/day_26.tex)
-(C:\github\tdt4501\report\appendix/journal/day_27.tex [50])
-(C:\github\tdt4501\report\appendix/journal/day_28.tex))) [51]
+[35 <C:/github/tdt4501/report/appendix/pdf/malaria_reporting_2.pdf>]
 (C:\github\tdt4501\report\main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1777 strings out of 493921
- 28549 string characters out of 3144870
- 76823 words of memory out of 3000000
- 4920 multiletter control sequences out of 15000+200000
+ 1663 strings out of 493921
+ 24189 string characters out of 3144870
+ 72840 words of memory out of 3000000
+ 4902 multiletter control sequences out of 15000+200000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,20p,1018b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,20p,1072b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
@@ -724,9 +648,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (60 pages, 1409213 bytes).
+Output written on main.pdf (42 pages, 1961104 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
+ 207 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
