@@ -3,11 +3,11 @@
 
 
 \section{Background}
-The health information system in Rwanda is now going through a transition phase. 
+The health information system in Rwanda is now going through a transition phase. This is from one of the members of the health management information system team. 
 \begin{quote}
 We'd like to transition to DHIS-2 but it will require quite a bit of work on programming alerts - outgoing SMS messages - and setting up an interface for defining alert levels (ceilings) at which point the messages are sent.
 \end{quote}
-They are now in some way trying to transition from a series of systems to an open source software called DHIS2, see section \ref{sec:dhis}, page \pageref{sec:dhis}.
+They are now in some way trying to transition from a series of systems to an open source software called DHIS2, see section ~\ref{sec:dhis}, page \pageref{sec:dhis}.
 The benefits in switching to the DHIS2 is many. For starters it is an open source software. Currently parts of the health information system is contracted to companies in the private sector using proprietary software. 
 Open source is free. Propietary software is not. Clearly the transition will have some finacial benefits. 
 One example is a contract currently worth 300 000\$ pr. year will due to the transiton become terminated.
@@ -29,11 +29,11 @@ HMIS got the main responsibility to manintain and to facilitate the flow of heal
 \begin{figure}
 \centering
 \includegraphics[width=12cm]{empirical/images/dataflow}
-\label{fig:dataflow}
 \caption{Dataflow}
+\label{fig:dataflow}
 \end{figure}
-For an example there is Voxiva. A propietary software company that currently is supporting the data flow to the government using a voice response system, see figure \ref{fig:dataflow}. 
-In figure \ref{dataflow} you can see how the data flows from users all the way to the DHIS2 database. If you take the route from users to the DHIS2 database, the data from users to health facilites are paper based.
+For an example there is Voxiva. A propietary software company that currently is supporting the data flow to the government using a voice response system, see figure ~\ref{fig:dataflow}. 
+In figure ~\ref{fig:dataflow} you can see how the data flows from users all the way to the DHIS2 database. If you take the route from users to the DHIS2 database, the data from users to health facilites are paper based.
 The data flow that goes through the paper based system would greatly benefit from transitioning to an electronic based system.
 Since DHIS2 does not support data specific to villages, another system is used to support this, currently delivered by Voxiva.
 In short, making the users report data twice at the village level. One time electronicly to the Voxiva system, and one time via the paper based system to the health facility.
@@ -43,14 +43,15 @@ One typical scenario is when a village is running empty of some drug. Another vi
 One cannot ignore this problem so HMIS is still dependent on Voxiva's system for problems like these.  
 Clearly one could benefit from some interoperability. Since the data is reported twice, the system could exchange data and make life easier for the users. 
 
+
 \subsection{External Systems and DHIX}
 \subsubsection{DHIX}
 DHIX is not an abbrevation, but a name for describing the systems at HMIS as a whole. This system include four instances of DHIS2, each running on a separate server with some scripts linking them together.
 \begin{figure}
 \centering
 \includegraphics[width=12cm]{empirical/images/dhix_overview}
-\label{fig:dhix_overview}
 \caption{An overview of the DHIS2 servers at the HMIS}
+\label{fig:dhix_overview}
 \end{figure}
 
 \begin{description}
@@ -64,8 +65,8 @@ DHIX is not an abbrevation, but a name for describing the systems at HMIS as a w
 \begin{figure}
 \centering
 \includegraphics[width=12cm]{empirical/images/context}
-\label{fig:context_systems}
 \caption{Overview of systems included in the Health Information System of Rwanda}
+\label{fig:context_systems}
 \end{figure}
 Figure \ref{fig:context_systems} shows the systems mapped during the case.
 All of these systems has some relation to the DHIX and interoperabililty between the external systems and DHIX would be of benefit.
@@ -82,17 +83,17 @@ The purpose of this instance is to map all malaria cases based on their geograph
 \begin{figure}
 \centering
 \includegraphics[width=12cm]{empirical/images/sentinel_surveliance}
-\label{fig:sentinel_surveliance}
 \caption{Sentinel Surveillance}
+\label{fig:sentinel_surveliance}
 \end{figure}
-The sentinels are differents stations spread throughout Rwanda, see figure \ref{fig:sentinel_surveliance}. Adding up the sentinels catchment area they should cover all of Rwanda. 
+The sentinels are differents stations spread throughout Rwanda, see figure ~\ref{fig:sentinel_surveliance}. Adding up the sentinels catchment area they should cover all of Rwanda. 
 Currently these stations data flow is not integrated in DHIS2. The data being reported should happen daily. This is currently supported by DHIS2 and would be solved by making some predefined forms for the staff making the reports.
 A very simple task, but it needs to be coordinated by the responsible so that everybody is onboard with the solution.
 DHIS2 is currently supporting all the requirements, but in order to make the transistion the personell doing the reporting has to be trained and take part in the transition.
 \subsubsection{Active Surveliance}
 Active Surveliance is another branch of the malaria surveillance. The thing is, one wishes for data from the place were the malaria was first noticed.
 This kind of data would include if the infected person has bednets, if others in the same house has malaria and other contextual data in hope of seing a pattern to what is most likely to make a person infected. 
-Currently the health personell is using a paper based reporting form, but would like to transition to an electronic based report. See appendix \ref{chap:malaria_reporting_form} for an example of a paperbased reporting form.
+Currently the health personell is using a paper based reporting form, but would like to transition to an electronic based report. See appendix ~\ref{chap:malaria_reporting_form} for an example of a paperbased reporting form.
 The technology that the health workers currently are equipped with is usally regular simple phones that could interact with DHIS2 with SMS. 
 DHIS2 is supposed to support this feature, but it is not been properly tested. 
 A requirement is that one would have to set up a SMPP\nomenclature{SMPP}{Simple Message Pear-to-Pear} gateway with a local teleoperator. In this case the most likely teleoperator in Rwanda would be MTN.
@@ -100,33 +101,87 @@ The technical expertise for this kind of functionality is not the main obstacle.
 The decicion process is long and it takes a while just to map who to talk to about what before one could even start setting up the necessary components.
 
 As one would notice, the technology is already in place.
-
-
-
-
+\subsection{Health Facility Registry}
+Another external system which used is the inStedd platform. This is currently being used to make register and delete health facilities and making the changes available to other systems.
+The changes are first being made at the HMIS server at the health ministry. Then the changes are made at the inStedd platform, which is being run by another open source system.
+From there other systems and user can get the latest updates on the health facilities. Thing is, this is not being synchronized automaticly.
+The HMIS server does not get updated if a new health facility is registred at the inStedd platform and vice versa.
 \section{Future goal}
+In short, the topic of the problem is interoperability. We have two scopes here. One within the organisation and one with the HMIS and external systems.
+\subsection{Intraoperability (DHIX)}
+ As mentioned, DHIX is the a collection of severel independent sub systems.
+Thing is, the HMIS team would like to make this systems interoperate. 
+Currently one would like to add some functionality to DHIS2. 
+This would mean that one would be able to exchange data between instances in a new way.
+Simply explained. The user should be able to select the data he/she want transferred based on groups or a specific type of data.
+In order to explain, some information about the dataelements in DHIS2 is needed.
+\subsubsection{Dataelements}
+\begin{figure}
+\centering
+\includegraphics[width=12cm]{empirical/images/data_rep_dhis2}
+\caption{Data representation in DHIS2}
+\label{fig:data_rep}
+\end{figure}
+Dataelements are the lowest level of data representation in DHIS2. 
+Dataelments are just a count of a thing. One would have to create a data elment in order to begin counting.
+Like if one would like to count the number of people with tuberculosis. 
+One makes a data element called tuberculosis and add it to a report form. The report form is then reported in with a fixed time intervall. 
+Maybe daily. So then one could see how many from each health center had tuberculosis.
+The dataelements can be combined to data groups or indicators. see figure ~\ref{fig:data_rep}.
+Indicators are one value based on several data elements. Data groups are a collection of data elements.
+Indicators can also be grouped into indicator groups. Data sets can be a combination of data elements and indicators. 
+Finally there's data element group sets which basicly is a group og data element groups.
+Indicators allows one to make some mathemathical operations with the data elements before presenting the number. 
+Like showing how many incidents of tuberculosis pr. thousands of villagers.
 
-\subsection{Intraoperability}
- 
+Thing is. Setting up all of these data representations and groupings can take some time. 
+Like in this case study we have several instances of DHIS2 running at the same time. 
+The HMIS team would like to be able to transfer dataelements, indicators, groups and sets without creating them at the target server.
+Now one has to first create the dataelements at the target server, then one has to transfer the values. 
+And since one has to make the dataelements, the groups, indicators and sets also must be entered manually before transferring the values.
+\begin{figure}
+\centering
+\includegraphics[width=12cm]{empirical/images/intraoperability}
+\caption{Exchange data between DHIS2 instances}
+\label{fig:intraoperability}
+\end{figure}
+In figure \ref{fig:intraoperability} one can see the general idea. Given one source server, one would like to be able to transfer elements, sets and groups by the click of a button.
+This is generally interoperability within HMIS, I just call it intraoperability in this report.
 \subsection{Interoperability}
+
+The second future goal concerns interoperability with external systems.
+In general, the same functionality as in figure ~\ref{fig:intraoperability}, but with external systems.
+Here it gets quite complicated. For startes one has to figure out what protocols the external systems are supporting and what fileformats that can be used.
+As we took notice in figure ~\ref{fig:context_systems}, theres alot of systems and probably even more.
+Nevertheless, interoperability is not binary. One could achive more or less, so setting up for easier data exchange is a good start.
+
 \begin{figure}
 \centering
 \includegraphics[width=12cm]{empirical/images/future_design_rwanda}
-\label{future_design}
 \caption{Future Design}
+\label{future_design}
 \end{figure}
-\subsubsection{Health Facility Registry}
-The HMIS has a vision on how they would like to interact with other systems, see \ref{future_design}. HMIS would like to collect all Ministry of Health systems under one roof. Then they would like to make some kind of interface between health ministry and other ministry systems. The specifics of how this is going to work are not decided yet. The ministry of health would like to be able to exchange data with external systems as well. This is done via an access layer. Between this access layer one would be able to synchronize data with external systems. For instance, there is a system called Voxivia that has data that is more specific than what is currently supported by the DHIS2. These data would be of great benefit to the HMIS. 
 
+In figure \ref{future_design} the overall architecture is proposed as a HMIS vision. This is the future for the health information system from a HMIS perspective.
+The idea is that HMIS should provide an access layer for the external systems. This layer should provide the necessary application programming interface, or API \nomenclature{API}{Application Programming Interface}, so that HMIS, or the Ministry of Health, will be able to exchange data with external systems. After discussing the design, we've implicity talked about using the same access layer for other ministries, but nothing was decided.
 
 
 
 \section{Challenges}
+One of the main challenges will be in mapping the different systems and their specifications.
+Technology is changing faster than ever, new solutions are available before one has the chance to implement the current ones.
+This is a major challenge when creating standards and making interoperabillity possible.
+The standard being decided might be outdated by the time its ready to be used.
+There is really no possible way to completely avoid this, one should keep in mind that these systems should be as timeless as possible.
+Like an data exchange format like JSON probably will be supported for many years to come. 
+Also one would probably have some difficulties with getting all parties involved agreeing on one solution that suits all.
+\section{My role}
+My role in this case has mainly been as one of the people trying to identify how one could improve the situation based on my educational background.
+Based on the case we've found that interoperability is one of the fields that I could contribute the best.
+The first 3 weeks went on planning and diagnosis in the action research process. 75\% of the time available. 
 
+With another student I started on the third step. Intervention, or executing the plan.
 
-
-\section{My role and case results}
-\subsection{4 projects}
 \subsection{The Landing}
 \subsubsection{Result}
 \subsection{Future Project}

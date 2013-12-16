@@ -1,24 +1,26 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces The beginning of Silos}}{4}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Exhibit 1}}{5}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Exhibit 2}}{6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Exhibit 1}}{6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Exhibit 2}}{7}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Rwanda in the World \cite {14}}}{12}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Rwanda Administrative Division}}{13}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Global Internet Penetration in 2012 \cite {3}}}{14}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Global Internet Users in 2012 \cite {3}}}{15}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces A population count using GIS in DHIS2}}{17}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces A population count using a chart in DHIS2}}{18}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces An example of a pivot table in DHIS2\cite {10}}}{18}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rwanda in the World \cite {14}}}{13}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Rwanda Administrative Division}}{14}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Global Internet Penetration in 2012 \cite {3}}}{16}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Global Internet Users in 2012 \cite {3}}}{16}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces A population count using GIS in DHIS2}}{20}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces A population count using a chart in DHIS2}}{21}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces An example of a pivot table in DHIS2\cite {10}}}{21}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Dataflow}}{24}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces An overview of the DHIS2 servers at the HMIS}}{25}
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Overview of systems included in the Health Information System of Rwanda}}{26}
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Sentinel Surveillance}}{27}
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Future Design}}{28}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Dataflow}}{29}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces An overview of the DHIS2 servers at the HMIS}}{30}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Overview of systems included in the Health Information System of Rwanda}}{31}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Sentinel Surveillance}}{32}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Data representation in DHIS2}}{34}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Exchange data between DHIS2 instances}}{35}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Future Design}}{36}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
