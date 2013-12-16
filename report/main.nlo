@@ -1,12 +1,16 @@
-\nomenclatureentry{aOS's@[{OS's}]\begingroup Operating Systems\nomeqref {2.0}|nompageref}{3}
-\nomenclatureentry{aICT@[{ICT}]\begingroup Information and Communication Technology\nomeqref {5.0}|nompageref}{12}
-\nomenclatureentry{aRPF@[{RPF}]\begingroup Rwandian Patriotic Front\nomeqref {5.0}|nompageref}{15}
-\nomenclatureentry{aHISP@[{HISP}]\begingroup Health Information System Programme\nomeqref {5.0}|nompageref}{18}
-\nomenclatureentry{aDHIS@[{DHIS}]\begingroup District Health Information System\nomeqref {5.0}|nompageref}{18}
-\nomenclatureentry{aGIS@[{GIS}]\begingroup Graphical Information System\nomeqref {5.0}|nompageref}{19}
-\nomenclatureentry{aetc@[{etc}]\begingroup Et cetera\nomeqref {5.0}|nompageref}{19}
-\nomenclatureentry{aSMS@[{SMS}]\begingroup Simple Message Service\nomeqref {5.0}|nompageref}{23}
-\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {5.0}|nompageref}{23}
-\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {5.0}|nompageref}{24}
-\nomenclatureentry{aPBF@[{PBF}]\begingroup Performance Based Financing\nomeqref {7.0}|nompageref}{30}
-\nomenclatureentry{aSMPP@[{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {7.0}|nompageref}{33}
+\nomenclatureentry{aOS's@[{OS's}]\begingroup Operating Systems\nomeqref {2.0}|nompageref}{2}
+\nomenclatureentry{aGUI@[{GUI}]\begingroup Graphical User Interface\nomeqref {3.0}|nompageref}{8}
+\nomenclatureentry{aICT@[{ICT}]\begingroup Inforfmation and Communication Technology\nomeqref {4.0}|nompageref}{11}
+\nomenclatureentry{aICT4D@[{ICT4D}]\begingroup Information and Communication Technology for Development\nomeqref {4.0}|nompageref}{11}
+\nomenclatureentry{aICT@[{ICT}]\begingroup Information and Communication Technology\nomeqref {5.0}|nompageref}{14}
+\nomenclatureentry{aRPF@[{RPF}]\begingroup Rwandian Patriotic Front\nomeqref {5.0}|nompageref}{17}
+\nomenclatureentry{aHISP@[{HISP}]\begingroup Health Information System Programme\nomeqref {5.0}|nompageref}{20}
+\nomenclatureentry{aDHIS@[{DHIS}]\begingroup District Health Information System\nomeqref {5.0}|nompageref}{20}
+\nomenclatureentry{aGIS@[{GIS}]\begingroup Graphical Information System\nomeqref {5.0}|nompageref}{21}
+\nomenclatureentry{aetc@[{etc}]\begingroup Et cetera\nomeqref {5.0}|nompageref}{21}
+\nomenclatureentry{aSMS@[{SMS}]\begingroup Simple Message Service\nomeqref {5.0}|nompageref}{25}
+\nomenclatureentry{aHMIS@[{HMIS}]\begingroup Health Management Information System\nomeqref {5.0}|nompageref}{25}
+\nomenclatureentry{aDHIS2@[{DHIS2}]\begingroup District Health Information System 2\nomeqref {5.0}|nompageref}{26}
+\nomenclatureentry{aPBF@[{PBF}]\begingroup Performance Based Financing\nomeqref {7.0}|nompageref}{32}
+\nomenclatureentry{aSMPP@[{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {7.0}|nompageref}{35}
+\nomenclatureentry{aAPI@[{API}]\begingroup Application Programming Interface\nomeqref {7.0}|nompageref}{38}

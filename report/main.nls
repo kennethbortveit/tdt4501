@@ -2,26 +2,36 @@
 
  \nomgroup{A}
 
+  \item [{API}]\begingroup Application Programming Interface\nomeqref {7.0}
+		\nompageref{38}
   \item [{DHIS}]\begingroup District Health Information System\nomeqref {5.0}
-		\nompageref{15}
+		\nompageref{20}
   \item [{DHIS2}]\begingroup District Health Information System 2\nomeqref {5.0}
-		\nompageref{18}
-  \item [{etc}]\begingroup Et cetera\nomeqref {5.0}\nompageref{15}
-  \item [{GIS}]\begingroup Graphical Information System\nomeqref {5.0}
-		\nompageref{15}
-  \item [{HISP}]\begingroup Health Information System Programme\nomeqref {5.0}
-		\nompageref{15}
-  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {5.0}
-		\nompageref{18}
-  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {5.0}
-		\nompageref{10}
-  \item [{OS's}]\begingroup Operating Systems\nomeqref {2.0}
-		\nompageref{3}
-  \item [{PBF}]\begingroup Performance Based Financing\nomeqref {7.0}
-		\nompageref{24}
-  \item [{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {7.0}
 		\nompageref{26}
+  \item [{etc}]\begingroup Et cetera\nomeqref {5.0}\nompageref{21}
+  \item [{GIS}]\begingroup Graphical Information System\nomeqref {5.0}
+		\nompageref{21}
+  \item [{GUI}]\begingroup Graphical User Interface\nomeqref {3.0}
+		\nompageref{8}
+  \item [{HISP}]\begingroup Health Information System Programme\nomeqref {5.0}
+		\nompageref{20}
+  \item [{HMIS}]\begingroup Health Management Information System\nomeqref {5.0}
+		\nompageref{25}
+  \item [{ICT}]\begingroup Inforfmation and Communication Technology\nomeqref {4.0}
+		\nompageref{11}
+  \item [{ICT}]\begingroup Information and Communication Technology\nomeqref {5.0}
+		\nompageref{14}
+  \item [{ICT4D}]\begingroup Information and Communication Technology for Development\nomeqref {4.0}
+		\nompageref{11}
+  \item [{OS's}]\begingroup Operating Systems\nomeqref {2.0}
+		\nompageref{2}
+  \item [{PBF}]\begingroup Performance Based Financing\nomeqref {7.0}
+		\nompageref{32}
+  \item [{RPF}]\begingroup Rwandian Patriotic Front\nomeqref {5.0}
+		\nompageref{17}
+  \item [{SMPP}]\begingroup Simple Message Pear-to-Pear\nomeqref {7.0}
+		\nompageref{35}
   \item [{SMS}]\begingroup Simple Message Service\nomeqref {5.0}
-		\nompageref{18}
+		\nompageref{25}
 
 \end{thenomenclature}

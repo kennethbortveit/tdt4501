@@ -1,1 +1,17 @@
-\part{Discussion}
+
+\chapter{Discussion \& Conclusion}
+Looking at the case result we see that the problem with the external systems is the formation of silos.
+The external systems cannot share data with the HMIS. There might be reasons for why this is the case.
+Like the owner of the external would like to have ownership of the data in order to be able to take care of their contract.
+There might not be only positive effects of interoperability. Interoperability leads more efficient use of systems. 
+And more efficency leads to redundency. Since old systems that are less efficient are no longer needed, the people facilitating these system are also no longer required to do so. Making people required to look for other endeavors. 
+This might be a good argument for choosing an interoperability method that does not have external stakeholders in the development of a concrete solution.
+The proposed access layer clearly advocates for a common data format solution, making Apache Camel a very contribution to this solution. The application would in some way synchronize databases with data. In that there is possibility of making changes to data with alot of dependencies. In this case the source system is not clearly defined, meaning that not all systems that will be affected are mapped. 
+This clearly makes the redevelopment approach not suitable. The migration strategy would come in handy, but we are not really looking to move the system over to a new platform. I would be sufficient that we just provide some new functionality with the source system. Therefore a wrapper approach is the best choice, making no changes to the system already in place. Maintaining the system will then be a more complex job, but developing the access layer in a framework that is suitable for DHIS2 should be possible. The developer team is already planning to launch a DHIS2 appstore that would work perfectly as a framework for this kind of application. 
+
+So by first being aware of the presence of system silos in a given context, we see that interoperability can be an issue. From here one should map the relevent systems that should be able to take advantage of an increase in interoperability. This would actually be another way of saying, identifying the stakeholders. One should choose a strategy based on the level of cooperation between stakeholders. In this case the organisations work pretty much as silos, so a common data format is the easiest to implement. From the interoperability strategy we get guidelines for what to develop. Then introducing the new system with the old requires a way of transitioning from the old way, and therefore choosing a transition strategy. In this case a wrapper that is built on top of the already existing system is best suited. In this case one would like to transition from propietary software to open source. For reasons discussed in section \ref{ict_in_dev}. As of now, Rwanda is charecterized as an developing country and would greatly benefit from an open source initiative.
+
+\section{Acknowledgements}
+Thank you all who have helped me during this research.
+
+

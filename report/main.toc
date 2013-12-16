@@ -1,73 +1,58 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Research Questions}{1}
-\contentsline {part}{I\hspace {1em}Litterature}{2}
-\contentsline {chapter}{\numberline {2}Interoperability}{3}
-\contentsline {section}{\numberline {2.1}Syntactic}{3}
-\contentsline {section}{\numberline {2.2}Semantic}{4}
-\contentsline {section}{\numberline {2.3}Solutions and methods}{5}
-\contentsline {section}{\numberline {2.4}Experiences}{6}
-\contentsline {chapter}{\numberline {3}Transition Strategy}{8}
-\contentsline {section}{\numberline {3.1}An overview}{8}
+\contentsline {chapter}{\numberline {2}Interoperability}{2}
+\contentsline {section}{\numberline {2.1}Syntactic}{2}
+\contentsline {section}{\numberline {2.2}Semantic}{3}
+\contentsline {section}{\numberline {2.3}Solutions and methods}{4}
+\contentsline {section}{\numberline {2.4}Experiences}{5}
+\contentsline {chapter}{\numberline {3}Transition Strategy}{7}
+\contentsline {section}{\numberline {3.1}An overview}{7}
 \contentsline {section}{\numberline {3.2}Planning and conducting a transition strategy}{8}
-\contentsline {section}{\numberline {3.3}Experiences}{8}
-\contentsline {section}{\numberline {3.4}System Migration \cite {2} \cite {8}}{8}
-\contentsline {subsection}{\numberline {3.4.1}Initiation}{8}
-\contentsline {subsection}{\numberline {3.4.2}Implementation}{9}
-\contentsline {subsubsection}{What characterizes a successful implementation}{9}
-\contentsline {subsection}{\numberline {3.4.3}Cut-Over}{9}
-\contentsline {subsubsection}{Evolutionary vs. Revolutionary}{9}
-\contentsline {subsection}{\numberline {3.4.4}Migration Methods}{9}
-\contentsline {subsubsection}{The Big Bang}{9}
-\contentsline {subsubsection}{Forward Migration}{9}
-\contentsline {subsubsection}{Backwords Migration}{9}
-\contentsline {subsubsection}{The Chicken Little Strategy}{9}
-\contentsline {subsubsection}{The Butterfly Methodology}{9}
-\contentsline {chapter}{\numberline {4}ICT in Developing Countries}{10}
-\contentsline {section}{\numberline {4.1}what kind of levels is there?}{10}
-\contentsline {section}{\numberline {4.2}Health}{10}
-\contentsline {section}{\numberline {4.3}Mobile}{10}
-\contentsline {part}{II\hspace {1em}Empirical}{11}
-\contentsline {chapter}{\numberline {5}Context}{12}
-\contentsline {section}{\numberline {5.1}Brief History Lesson}{15}
-\contentsline {section}{\numberline {5.2}Information Technology focus in Rwanda}{17}
-\contentsline {section}{\numberline {5.3}Health Information System Programme}{18}
-\contentsline {subsection}{\numberline {5.3.1}About}{18}
-\contentsline {subsection}{\numberline {5.3.2}History}{18}
-\contentsline {subsection}{\numberline {5.3.3}District Health Information System}{19}
-\contentsline {subsubsection}{GIS}{19}
-\contentsline {subsubsection}{Charts}{20}
-\contentsline {subsubsection}{Pivot Table}{22}
-\contentsline {subsubsection}{Dashboard and social features}{22}
-\contentsline {subsubsection}{Individual Records}{22}
-\contentsline {subsubsection}{Data entry and validation}{22}
-\contentsline {section}{\numberline {5.4}Healthcare}{23}
-\contentsline {subsection}{\numberline {5.4.1}Health Information Systems in Rwanda}{23}
-\contentsline {chapter}{\numberline {6}Method}{25}
-\contentsline {section}{\numberline {6.1}Action Research}{25}
-\contentsline {subsection}{\numberline {6.1.1}Diagnosis}{26}
-\contentsline {subsubsection}{Selection of case}{26}
-\contentsline {section}{\numberline {6.2}Data Collection}{26}
-\contentsline {section}{\numberline {6.3}Reflection \& Data Analysis}{26}
-\contentsline {chapter}{\numberline {7}Case}{27}
-\contentsline {section}{\numberline {7.1}Background}{27}
-\contentsline {section}{\numberline {7.2}Current situation}{28}
-\contentsline {subsection}{\numberline {7.2.1}External Systems and DHIX}{29}
-\contentsline {subsubsection}{DHIX}{29}
-\contentsline {subsubsection}{External Systems}{30}
-\contentsline {subsection}{\numberline {7.2.2}Malaria Surveliance}{31}
-\contentsline {subsubsection}{Sentinel Surveliance}{31}
-\contentsline {subsubsection}{Active Surveliance}{32}
-\contentsline {section}{\numberline {7.3}Future goal}{33}
-\contentsline {subsection}{\numberline {7.3.1}Intraoperability (DHIX)}{33}
-\contentsline {subsubsection}{Dataelements}{33}
-\contentsline {subsection}{\numberline {7.3.2}Interoperability}{36}
-\contentsline {subsubsection}{Health Facility Registry}{36}
-\contentsline {section}{\numberline {7.4}Challenges}{37}
-\contentsline {section}{\numberline {7.5}My role and case results}{37}
-\contentsline {subsection}{\numberline {7.5.1}4 projects}{37}
-\contentsline {subsection}{\numberline {7.5.2}The Landing}{37}
-\contentsline {subsubsection}{Result}{37}
-\contentsline {subsection}{\numberline {7.5.3}Future Project}{37}
-\contentsline {part}{III\hspace {1em}Discussion}{38}
-\contentsline {chapter}{\numberline {8}Conclusion}{39}
-\contentsline {chapter}{\numberline {A}Malaria Reporting Form}{42}
+\contentsline {section}{\numberline {3.3}Migration}{8}
+\contentsline {subsection}{\numberline {3.3.1}The cutover}{9}
+\contentsline {subsection}{\numberline {3.3.2}Methods}{9}
+\contentsline {subsubsection}{The chicken little strategy}{9}
+\contentsline {subsubsection}{The butterfly}{10}
+\contentsline {chapter}{\numberline {4}ICT in Developing Countries}{11}
+\contentsline {section}{\numberline {4.1}ICT for development}{11}
+\contentsline {section}{\numberline {4.2}Overcoming the digital divide}{12}
+\contentsline {section}{\numberline {4.3}Future problems}{12}
+\contentsline {chapter}{\numberline {5}Context}{14}
+\contentsline {section}{\numberline {5.1}Brief History Lesson}{17}
+\contentsline {section}{\numberline {5.2}Information Technology focus in Rwanda}{19}
+\contentsline {section}{\numberline {5.3}Health Information System Programme}{20}
+\contentsline {subsection}{\numberline {5.3.1}About}{20}
+\contentsline {subsection}{\numberline {5.3.2}History}{20}
+\contentsline {subsection}{\numberline {5.3.3}District Health Information System}{21}
+\contentsline {subsubsection}{GIS}{21}
+\contentsline {subsubsection}{Charts}{22}
+\contentsline {subsubsection}{Pivot Table}{24}
+\contentsline {subsubsection}{Dashboard and social features}{24}
+\contentsline {subsubsection}{Individual Records}{24}
+\contentsline {subsubsection}{Data entry and validation}{24}
+\contentsline {section}{\numberline {5.4}Healthcare}{25}
+\contentsline {subsection}{\numberline {5.4.1}Health Information Systems in Rwanda}{25}
+\contentsline {chapter}{\numberline {6}Method}{27}
+\contentsline {section}{\numberline {6.1}Action Research}{27}
+\contentsline {section}{\numberline {6.2}Selection of case}{28}
+\contentsline {section}{\numberline {6.3}Data Collection}{28}
+\contentsline {chapter}{\numberline {7}Case}{29}
+\contentsline {section}{\numberline {7.1}Background}{29}
+\contentsline {section}{\numberline {7.2}Situation report}{30}
+\contentsline {subsection}{\numberline {7.2.1}External Systems and DHIX}{31}
+\contentsline {subsubsection}{DHIX}{31}
+\contentsline {subsubsection}{External Systems}{32}
+\contentsline {subsection}{\numberline {7.2.2}Malaria Surveliance}{33}
+\contentsline {subsubsection}{Sentinel Surveliance}{33}
+\contentsline {subsubsection}{Active Surveliance}{34}
+\contentsline {subsection}{\numberline {7.2.3}Health Facility Registry}{35}
+\contentsline {section}{\numberline {7.3}Future goal}{35}
+\contentsline {subsection}{\numberline {7.3.1}Intraoperability (DHIX)}{35}
+\contentsline {subsubsection}{Dataelements}{36}
+\contentsline {subsection}{\numberline {7.3.2}Interoperability}{38}
+\contentsline {section}{\numberline {7.4}Challenges}{39}
+\contentsline {section}{\numberline {7.5}My role}{39}
+\contentsline {subsection}{\numberline {7.5.1}Intervention}{39}
+\contentsline {subsection}{\numberline {7.5.2}Future Project}{41}
+\contentsline {chapter}{\numberline {8}Discussion \& Conclusion}{42}
+\contentsline {section}{\numberline {8.1}Acknowledgements}{43}
+\contentsline {chapter}{\numberline {A}Malaria Reporting Form}{46}
